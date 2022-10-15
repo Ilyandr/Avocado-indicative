@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#F7F7F7</color>
+    <color name="colorBottomBar">#F3F3F3</color>
+    <color name="colorChip">#C1C1C1</color>
+    <color name="cardColor">#ECECEC</color>
+    <color name="colorGray">#353535</color>
+    <color name="chipBackground">#223F67</color>
+    <color name="colorGrayAdditional">#835C5C5C</color>
+    <color name="colorGrayBar">#83E1E1E1</color>
+    <color name="colorTransparent">#00FFFEFE</color>
+    <color name="colorGeneralThemeApp">#4CAF50</color>
+    <color name="colorSecondGeneralThemeApp">#172d4a</color>
+    <color name="colorSheetInfo">#7B7B7B</color>
+    <color name="primaryViewsColor">#292929</color>
+    <color name="shadowLine">#66454545</color>
+</resources>

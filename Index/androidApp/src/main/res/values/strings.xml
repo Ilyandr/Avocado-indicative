@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Qr check</string>
+
+    <string name="generalTextRegister">Введённые вами данные будут использованы для дальнейшего входа</string>
+    <string name="textNextStageRegister">Войти</string>
+    <string name="infoWindowRegister">Авторизация</string>
+    <string name="infoEditTextUserPhone">Номер телефона</string>
+    <string name="messageSuccessRegister">Письмо с подтверждением регистрации отправлено на почту</string>
+    <string name="primaryCountryCode">+7</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="infoBtnConfirmCode">Войти</string>
+    <string name="infoTextConfirmAuth">Подтверждение</string>
+    <string name="infoTextConfirmAction">Требуются дополнительные данные для входа в аккаунт</string>
+    <string name="textBtnResetConfirmCode"><u>Забыли пароль?</u></string>
+    <string name="textPasswordEditTextInfo">Введите пароль</string>
+    <string name="textRegisterLayout">Регистрация</string>
+    <string name="textAuthLayout">Авторизация</string>
+    <string name="infoOutputRegister">Для продолжения необходимо заполнить все данные</string>
+    <string name="textHintTypeAccountRegister">Тип аккаунта</string>
+    <string name="btnTextRegisterChangeStage">Продолжить</string>
+    <string name="btnTextCreate">Создать</string>
+    <string name="passwordInfoRegister">Пароль</string>
+    <string name="organizationInfoRegister">Организация</string>
+    <string name="jobTitleInfoRegister">Должность</string>
+    <string name="nameInfoRegister">Ф.И.О</string>
+    <string name="infoTextLoadingDialog">Загрузка</string>
+    <string name="toastErrorCheckLogin">Ошибка - введён некорректный номер телефона или отсутствует интернет-соединение</string>
+    <string name="toastErrorCommonCheckData">Введены некорректные данные аккаунта</string>
+    <string name="toastErrorCheckData">Введены некорректные данные</string>
+    <string name="empty" />
+    <string name="toastErrorPassword">Ошибка - введён неверный пароль от аккаунта или отсутствует интернет-соединение</string>
+    <string name="toastErrorNetwork">Ошибка - отсутствует интернет-соединение</string>
+    <string name="toastErrorResponse">При соеденении с сервером произошла ошибка</string>
+    <string name="infoPopupMenuRole0">Сотрудник</string>
+    <string name="infoPopupMenuRole1">Работодатель</string>
+    <string name="infoHintScanQR">Сканировать QR-код</string>
+    <string name="successQRScan">Вы успешно отсканировали QR-код!</string>
+    <string name="faultQRScan">Ошибка - вы находитесь слишком далеко от объекта сканирования</string>
+    <string name="itemInfoSettings">Настройки</string>
+    <string name="itemInfoHistory">История</string>
+    <string name="infoCloseAlert">Отмена</string>
+    <string name="btnTextShowQR">Открыть QR-код</string>
+    <string name="btnTextCreateQR">Создать QR-код</string>
+    <string name="btnDataInfoText">Данные</string>
+    <string name="infoCreateQRTitle">Параметры точки</string>
+    <string name="infoMessageQRCreator">Выберите радиус возможности сканирования QR-кода сотрудниками</string>
+    <string name="infoEditTextQRCreator">Дальность в метрах</string>
+    <string name="errorInputRadius">Ошибка - задан некорректный радиус</string>
+    <string name="successCreateQR">Точка сканирования QR-кода успешно создана!</string>
+    <string name="faultCreateQR">Ошибка создания точки сканирования QR-кода</string>
+    <string name="infoShowQRStageLoading">Генерация QR-кода..</string>
+    <string name="infoEmptyList">Список пуст</string>
+    <string name="roleID0">USER</string>
+    <string name="roleID1">ADMIN</string>
+    <string name="infoScanAdminQR">Для отметки посещения - отсканируйте данный QR-код</string>
+    <string name="infoNameFragmentAllRecords">Данные</string>
+    <string name="infoNameFragmentGeneralAdmin">Список точек</string>
+    <string name="infoLaunchBtnQRCode">QR-код</string>
+    <string name="infoEditTextQRCreator1">Время действия (в днях)</string>
+    <string name="toastMessageFaultConnection">Ошибка интернет-соеденения, проверьте ваше подключение</string>
+    <string name="successPermissionInfo">Резрешения успешно предоставлены! Поворите выбранное действие</string>
+    <string name="faultPermissionInfo">Ошибка - не предоставлены нужные разрешения</string>
+
+    <!-- Settings fragment key`s !-->
+    <string name="themeAppSettings">themeApp</string>
+    <string name="changeLoginSettings">changeLogin</string>
+    <string name="changePasswordSettings">changePassword</string>
+    <string name="changeOrganizationSettings">changeOrganization</string>
+    <string name="removeAccountSettings">removeAccount</string>
+    <string name="exitSettings">exit</string>
+    <string name="toastSuccessChangeTheme">Тема приложения успешно изменена</string>
+    <string name="titleAlertConfirm">Подтверждение</string>
+    <string name="msgAlertExitAccount">Вы точно хотите выйти из своего аккаунта?</string>
+    <string name="titleFragmentShowQR">Данные точки</string>
+    <string name="titleFragmentGeneralUser">Сканирование</string>
+    <string name="titleSettingsFragment">Настройки</string>
+    <string name="alertSettingsChangeLogin">Введите новый номер телефона (без кода страны)</string>
+    <string name="alertSettingsChangePassword">Введите новый пароль</string>
+    <string name="alertSettingsChangeOrganization">Введите новую организацию</string>
+    <string name="alertSettingsDeleteAccount">Введите текущий пароль</string>
+    <string name="successChangeDataAccount">Данные аккаунта успешно изменены</string>
+    <string name="test">Вы создали аккаунт!</string>
+    <string name="faultChangeDataAccount">При изменении данных произошла ошибка</string>
+    <string name="infoRemoveAccount">Данный аккаунт был удалён</string>
+    <string name="errorCreateOrg">При создании новой организации произошла неизвестная ошибка</string>
+    <string name="loginTitle">Логин (Email)</string>
+    <string name="passwordTitle">Пароль</string>
+    <string name="backButton">Назад</string>
+    <string name="nextButton">Далее</string>
+    <string name="bottomBarTitleHome">Главная</string>
+    <string name="bottomBarTitleAdd">Добавить</string>
+    <string name="bottomBarTitleSettings">Настройки</string>
+    <string name="bottomBarTitleTeam">Команды</string>
+    <string name="bottomBarTitleInvite">Приглашение</string>
+    <string name="restoreAccountButton">Забыли данные?</string>
+    <string name="statusButtonHint">Статус</string>
+    <string name="organizationButtonHint">Организация</string>
+    <string name="loadingDialogTitle">Загрузка данных</string>
+    <string name="phoneViewTitle">Телефон</string>
+    <string name="nameViewTitle">Ф.И.О</string>
+    <string name="organizationCountTitle">Кол-во сотрудников</string>
+    <string name="errorPaymentInfo">Платёж отклонён</string>
+    <string name="paymentTitle">Оплата</string>
+    <string name="paymentMessage">Организация успешно создана. Для перехода в панель управления нажмите кнопку ниже</string>
+    <string name="homeTitle">Главная</string>
+    <string name="emptyTitle">Создайте новую организацию или присоединитесь к существующей</string>
+    <string name="createOrgTitle">Создать</string>
+    <string name="register">Регистрация</string>
+    <string name="createOrgFragmentTitle">Новая организация</string>
+    <string name="createOrgSuccessMessage">Новая организация успешно создана!</string>
+    <string name="orgNameTitle">Название организации</string>
+    <string name="orgDescriptionTitle">После успешного создания вам будет доступен пробный период сроком в 1 месяц</string>
+    <string name="accountTitle">Аккаунт</string>
+
+    <string-array name="arrayRoles">
+        <item>Сотрудник</item>
+        <item>Работодатель</item>
+    </string-array>
+
+    <string-array name="tabLayoutRegisterData">
+        <item>Регистрация</item>
+        <item>Восстановление</item>
+    </string-array>
+</resources>
