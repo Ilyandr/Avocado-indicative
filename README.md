@@ -4,8 +4,11 @@ This is an indicative model of the application, without api keys.
 Stack of technologies:
 
 patterns: MVVM, clean architecture, single activity, builder.
+
 main libraries: kodein DI (KMM module), hilt DI (native android module), ktor (KMM), coroutines, coroutines state flow.
+
 api: yookassa (payments).
+
 other: kotlin multiplatform, material design, navigation graph, viewBinding.
 
 -----
