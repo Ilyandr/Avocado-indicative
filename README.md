@@ -5,7 +5,7 @@ Stack of technologies:
 
 patterns: MVVM, clean architecture, single activity, builder.
 
-main libraries: kodein DI (KMM module), hilt DI (native android module), ktor (KMM), coroutines, coroutines state flow.
+main libraries: kodein di (KMM module), hilt di (native android module), ktor (rest - KMM), coroutines, coroutines state flow.
 
 api: yookassa (payments).
 
