@@ -1,4 +1,4 @@
-# Index-indicative
+# Avocado-indicative
 This is an indicative model of the application, without api keys.
 
 Stack of technologies:
